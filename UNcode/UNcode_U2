@@ -1,0 +1,7 @@
+# Problema: Un punto y un rectángulo
+
+En esta ocasión vamos a trabajar con coordenadas cartesianas. La ubicación de un rectángulo en este sistema se puede definir mediante dos valores x y y que representan la posición de la esquina inferior izquierda de la figura. Además, se utilizan los valores w y h, representando el ancho y el alto de la figura, respectivamente.
+Nota: existen distintas maneras de definir un área rectangular por medio de coordenadas cartesianas. No se debe confundir este enfoque con el que define los 4 valores como las coordenadas de dos esquinas opuestas del rectángulo. En este caso, esta esquina opuesta corresponde a los valores x + w y y + h, respectivamente.
+
+
+En la siguiente imagen se ilustra cómo serían los rectángulos para las entradas (x=0, y=0, w=5, h=5), (x=7, y=2, w=4, h=2) y (x=7, y=−4, w=1, h=3). Dado que el punto de referencia es la esquina inferior izquierda, los valores de w y h definen el tamaño de los segmentos aledaños al punto, siempre en la dirección positiva de los ejes x y y.
