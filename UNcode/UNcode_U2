@@ -5,6 +5,7 @@ Nota: existen distintas maneras de definir un área rectangular por medio de coo
 
 
 En la siguiente imagen se ilustra cómo serían los rectángulos para las entradas (x=0, y=0, w=5, h=5), (x=7, y=2, w=4, h=2) y (x=7, y=−4, w=1, h=3). Dado que el punto de referencia es la esquina inferior izquierda, los valores de w y h definen el tamaño de los segmentos aledaños al punto, siempre en la dirección positiva de los ejes x y y.
+
 ![Cuadros](https://github.com/dachacond/my-process-learning-python/blob/main/UNcode/cuadros.jpg)
 
 En este ejercicio deberá realizar un programa que defina si un punto dado, con posición horizontal px y posición vertical py, se encuentra dentro de un rectángulo (x, y, w, h). Los puntos ubicados en el borde, como el punto (0,0) con la primera figura, también se considera que están contenidos dentro del rectángulo.
